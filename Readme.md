@@ -6,7 +6,7 @@
 
 - Pakawat Naktubtee (STD ID: 6620422021)
 
-- Kittita Wattanasuntikul (STD ID: 6620422025)
+- Kittitat Wattanasuntikul (STD ID: 6620422025)
  
 ### DATASET:[League of Legends Dataset](https://www.kaggle.com/datasets/delfinaoliva/league-of-legends-champspopularity-winrate-kda/data)
  
