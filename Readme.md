@@ -75,13 +75,13 @@ Barchart แสดงให้เห็นถึงจำนวน Champions ท
 
 จากสมมติฐาน: Champion ที่มี win-rate สูง น่าจะมี ban-rate สูงตามไปด้วย ไม่ถูกต้อง ทำให้เราสงสัยว่า Champion ประเภทไหนที่ผู้เล่นเกมส์ LoL มักจะแบน?
 
-![image](https://github.com/user-attachments/assets/46ecb06a-ba1d-4fbd-a83b-4b5ddfbcf5cb)
+![image](https://github.com/user-attachments/assets/be9e4303-0c3f-42f9-80da-0a29a534012f)
 
 จากกราฟแสดงให้เห็นว่าผู้เล่นมักจะเลือกแบน Champion ประเภท Artillery มากที่สุด Diver และ Assasin รองลงมาตามลำดับ ซึ่งหมายถึงผู้เล่นไม่ชอบ Champion ที่โจมตีได้รุนแรงในระยะไกล และ Champion ที่มีความคล่องแคล่ว สามารถเข้าประชิดตัว ทำดาเมจได้รุนแรงและรวดเร็ว
 
 เช่นเดียวกัน จากสมมติฐาน: Champion ที่มี win-rate สูง น่าจะมี popularity สูงตามไปด้วย ไม่ถูกต้อง ทำให้เราสงสัยว่า Champion ประเภทไหนที่ผู้เล่นเกมส์ LoL มักนิยมเล่นมากที่สุด?
 
-![image](https://github.com/user-attachments/assets/482367cc-b28b-4bcf-8f19-d857076e7357)
+![image](https://github.com/user-attachments/assets/9a2fae71-6ca8-45fc-ac8d-2393b380fa46)
 
 จากกราฟ Average Popularity by Champion Tag แสดงให้เห็นว่าผู้เล่นมักจะเลือกเล่น Champion ประเภท Artillery, Marksman, Skirmisher และ Assassin ตามลำดับ ซึ่งจากทั้ง 4 ประเภทของ Champion แสดงให้เห็นว่า ผู้เล่นเกมนี้มักจะชอบเล่น Champion ที่ทำดาเมจได้รุนแรง
 
