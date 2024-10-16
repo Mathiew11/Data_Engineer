@@ -45,22 +45,18 @@
    - **คำตอบ**: จำนวน Champion ทั้งหมดของ LoL มี 168 ตัว
 Barchart แสดงให้เห็นถึงจำนวน Champions ที่ถูกเลือกในแต่ละ Role โดย Top-lane มีจำนวน Champion เยอะที่สุดใกล้เคียงกับ Mid-lane ที่เหลือรองลงมาส่วน Bottom-lane หรือ Carry มีน้อยที่สุด
 
-Key takeaway:
+  Key takeaway:
 
-1.มี Champions หลายตัวที่สามารถเล่นได้มากกว่า 1 ตำแหน่ง
+  - มี Champions หลายตัวที่สามารถเล่นได้มากกว่า 1 ตำแหน่ง
 
-![image](https://github.com/user-attachments/assets/12ee8b86-a198-4096-a86d-b3bbfcc7df78)
+  ![image](https://github.com/user-attachments/assets/12ee8b86-a198-4096-a86d-b3bbfcc7df78)
 
-2.Champions ที่ถูกเลือกในตำแหน่ง Bottomlane มี spec unflexible จึงมีจำนวนน้อยที่สุด
+  - Champions ที่ถูกเลือกในตำแหน่ง Bottomlane มี spec unflexible จึงมีจำนวนน้อยที่สุด
 
-3.Champions ที่ถูกเลือกในตำแหน่ง Toplane และ Midlane มีความ flexible สูงเห็นได้จากมี Champions หลากหลายตัวถูกเลือกในตำแหน่งนี้
+  - Champions ที่ถูกเลือกในตำแหน่ง Toplane และ Midlane มีความ flexible สูงเห็นได้จากมี Champions หลากหลายตัวถูกเลือกในตำแหน่งนี้
  
- 
-3. **คำถาม**: ปัจจัยใดบ้างที่ทำให้ผู้เล่นเลือกใช้แชมเปี้ยนต่าง ๆ ใน LoL?
 
-   - **คำตอบ**: การเลือกแชมเปี้ยนขึ้นอยู่กับสไตล์การเล่น, ความสามารถของแชมเปี้ยน, และบทบาทของแชมเปี้ยนในทีม
-
-4.**คำถาม**: Champion ที่มี win-rate สูง มักจะมี ban-rate และ popularity สูงด้วย?
+3.**คำถาม**: Champion ที่มี win-rate สูง มักจะมี ban-rate และ popularity สูงด้วย?
 
    - **คำตอบ**
      
