@@ -40,7 +40,20 @@
  
 2. **คำถาม**: Champion ในเกมมีทั้งหมดกี่ตัวและแต่ละตัวนิยมเล่นในตำแหน่งอะไรกันบ้าง?
 
+![image](https://github.com/user-attachments/assets/be498181-8343-4de6-bb4f-510bf218efac)
+
    - **คำตอบ**: จำนวน Champion ทั้งหมดของ LoL มี 168 ตัว
+Barchart แสดงให้เห็นถึงจำนวน Champions ที่ถูกเลือกในแต่ละ Role โดย Top-lane มีจำนวน Champion เยอะที่สุดใกล้เคียงกับ Mid-lane ที่เหลือรองลงมาส่วน Bottom-lane หรือ Carry มีน้อยที่สุด
+
+Key takeaway:
+
+1.มี Champions หลายตัวที่สามารถเล่นได้มากกว่า 1 ตำแหน่ง
+
+![image](https://github.com/user-attachments/assets/12ee8b86-a198-4096-a86d-b3bbfcc7df78)
+
+2.Champions ที่ถูกเลือกในตำแหน่ง Bottomlane มี spec unflexible จึงมีจำนวนน้อยที่สุด
+
+3.Champions ที่ถูกเลือกในตำแหน่ง Toplane และ Midlane มีความ flexible สูงเห็นได้จากมี Champions หลากหลายตัวถูกเลือกในตำแหน่งนี้
 
      ![image](https://github.com/user-attachments/assets/a30d5043-5678-48cd-a342-0665b710cee0)
  
@@ -49,4 +62,17 @@
 
    - **คำตอบ**: การเลือกแชมเปี้ยนขึ้นอยู่กับสไตล์การเล่น, ความสามารถของแชมเปี้ยน, และบทบาทของแชมเปี้ยนในทีม
 
- 
+4.**คำถาม**: Champion ที่มี win-rate สูง มักจะมี ban-rate สูงด้วย?
+
+   - **คำตอบ**
+
+     ![image](https://github.com/user-attachments/assets/c7be60c0-e531-430d-a62e-776f33cf2273)
+
+   จาก Graph Correlation Heatmap แสดงให้เห็นว่า win-rate กับ ban-rate มีความสัมพันธ์เชิงลบ ซึ่งหมายถึง อัตราการชนะไม่มีความเกี่ยวข้องกับการถูกแบน 
+   นอกจากนี้กราฟยังแสดงให้เห็นถึง ค่าความสัมพันธ์เชิงบวกระหว่าง ban-rate กับ popularity ซึ่งหมายถึง Champion ที่มีความนิยมสูงมักจะมีอัตราการถูกแบนสูงด้วย
+
+![image](https://github.com/user-attachments/assets/719c5678-94eb-443e-9a0e-b19ae4cf2d3c)
+
+จากค่าในตารางแสดงให้เห็นว่าใน Champion 10 อันดับแรกที่มีอัตราการชนะสูงสุด  มี Champion 9 อันดับที่มีอัตราการชนะสูง แต่มีอัตราการถูกแบนต่ำ
+
+5. **คำถาม**: 
