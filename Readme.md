@@ -62,6 +62,8 @@ Barchart แสดงให้เห็นถึงจำนวน Champions ท
 
 กราฟนี้แสดงให้เห็นถึงการกระจายตัวของ win-rate, ban-rate และ popularity ของ Champion ทุกตัวในเกม
 
+
+
 ![image](https://github.com/user-attachments/assets/c7be60c0-e531-430d-a62e-776f33cf2273)     
 
    จาก Graph Correlation Heatmap แสดงให้เห็นว่า win-rate กับ ban-rate มีความสัมพันธ์เชิงลบ ซึ่งหมายถึง อัตราการชนะไม่มีความเกี่ยวข้องกับการถูกแบน 
