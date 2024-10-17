@@ -60,8 +60,7 @@ Barchart แสดงให้เห็นถึงจำนวน Champions ท
      
 ![image](https://github.com/user-attachments/assets/45bc0f58-99ec-4d9c-8e76-6fd129c66b31)
 
-กราฟนี้แสดงให้เห็นถึงการกระจายตัวของ win-rate, ban-rate และ popularity ของ Champion ทุกตัวในเกม
-
+จากกราฟ Boxplot Champion Winrate, Banrate, and Popularity นี้แสดงให้เห็นถึงการกระจายตัวของ win-rate, ban-rate และ popularity ของ Champion ทุกตัวในเกม
 
 
 ![image](https://github.com/user-attachments/assets/c7be60c0-e531-430d-a62e-776f33cf2273)     
