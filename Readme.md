@@ -32,7 +32,7 @@
  
 ### Quest and Answer:
 
-1. **คำถาม**: อะไรทำให้ League of Legends เป็นเกมที่ได้รับความนิยมอย่างต่อเนื่อง?
+1. **คำถาม**: จำนวนการเปิดตัวแชมเปียนมีการเปลี่ยนแปลงอย่างไรในแต่ละปี?
  
    ![image](https://github.com/user-attachments/assets/12f2118f-57a3-4c4f-b07f-fe2ee496b48b)
  
