@@ -49,8 +49,6 @@ Barchart แสดงให้เห็นถึงจำนวน Champions ท
 
   - มี Champions หลายตัวที่สามารถเล่นได้มากกว่า 1 ตำแหน่ง
 
-  ![image](https://github.com/user-attachments/assets/12ee8b86-a198-4096-a86d-b3bbfcc7df78)
-
   - Champions ที่ถูกเลือกในตำแหน่ง Bottomlane มี spec unflexible จึงมีจำนวนน้อยที่สุด
 
   - Champions ที่ถูกเลือกในตำแหน่ง Toplane และ Midlane มีความ flexible สูงเห็นได้จากมี Champions หลากหลายตัวถูกเลือกในตำแหน่งนี้
